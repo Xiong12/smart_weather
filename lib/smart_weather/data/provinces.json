@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "name": "北京",
+    "abbr": "京",
+    "code": "10101",
+    "spelling": "BJ"
+  },
+  {
+    "id": 2,
+    "name": "上海",
+    "abbr": "沪",
+    "code": "10102",
+    "spelling": "SH"
+  },
+  {
+    "id": 3,
+    "name": "天津",
+    "abbr": "津",
+    "code": "10103",
+    "spelling": "TJ"
+  },
+  {
+    "id": 4,
+    "name": "重庆",
+    "abbr": "渝",
+    "code": "10104",
+    "spelling": "CQ"
+  },
+  {
+    "id": 5,
+    "name": "黑龙江",
+    "abbr": "黑",
+    "code": "10105",
+    "spelling": "HLJ"
+  },
+  {
+    "id": 6,
+    "name": "吉林",
+    "abbr": "吉",
+    "code": "10106",
+    "spelling": "JL"
+  },
+  {
+    "id": 7,
+    "name": "辽宁",
+    "abbr": "辽",
+    "code": "10107",
+    "spelling": "LN"
+  },
+  {
+    "id": 8,
+    "name": "内蒙古",
+    "abbr": "蒙",
+    "code": "10108",
+    "spelling": "NMG"
+  },
+  {
+    "id": 9,
+    "name": "河北",
+    "abbr": "冀",
+    "code": "10109",
+    "spelling": "HB"
+  },
+  {
+    "id": 10,
+    "name": "山西",
+    "abbr": "晋",
+    "code": "10110",
+    "spelling": "XS"
+  },
+  {
+    "id": 11,
+    "name": "陕西",
+    "abbr": "陕",
+    "code": "10111",
+    "spelling": "SX"
+  },
+  {
+    "id": 12,
+    "name": "山东",
+    "abbr": "鲁",
+    "code": "10112",
+    "spelling": "SD"
+  },
+  {
+    "id": 13,
+    "name": "新疆",
+    "abbr": "新",
+    "code": "10113",
+    "spelling": "XJ"
+  },
+  {
+    "id": 14,
+    "name": "西藏",
+    "abbr": "藏",
+    "code": "10114",
+    "spelling": "XZ"
+  },
+  {
+    "id": 15,
+    "name": "青海",
+    "abbr": "青",
+    "code": "10115",
+    "spelling": "QH"
+  },
+  {
+    "id": 16,
+    "name": "甘肃",
+    "abbr": "甘",
+    "code": "10116",
+    "spelling": "GS"
+  },
+  {
+    "id": 17,
+    "name": "宁夏",
+    "abbr": "宁",
+    "code": "10117",
+    "spelling": "NX"
+  },
+  {
+    "id": 18,
+    "name": "河南",
+    "abbr": "豫",
+    "code": "10118",
+    "spelling": "HN"
+  },
+  {
+    "id": 19,
+    "name": "江苏",
+    "abbr": "苏",
+    "code": "10119",
+    "spelling": "JS"
+  },
+  {
+    "id": 20,
+    "name": "湖北",
+    "abbr": "鄂",
+    "code": "10120",
+    "spelling": "FB"
+  },
+  {
+    "id": 21,
+    "name": "浙江",
+    "abbr": "浙",
+    "code": "10121",
+    "spelling": "ZJ"
+  },
+  {
+    "id": 22,
+    "name": "安徽",
+    "abbr": "皖",
+    "code": "10122",
+    "spelling": "AH"
+  },
+  {
+    "id": 23,
+    "name": "福建",
+    "abbr": "闽",
+    "code": "10123",
+    "spelling": "FJ"
+  },
+  {
+    "id": 24,
+    "name": "江西",
+    "abbr": "赣",
+    "code": "10124",
+    "spelling": "JX"
+  },
+  {
+    "id": 25,
+    "name": "湖南",
+    "abbr": "湘",
+    "code": "10125",
+    "spelling": "HUN"
+  },
+  {
+    "id": 26,
+    "name": "贵州",
+    "abbr": "贵",
+    "code": "10126",
+    "spelling": "GZ"
+  },
+  {
+    "id": 27,
+    "name": "四川",
+    "abbr": "川",
+    "code": "10127",
+    "spelling": "SC"
+  },
+  {
+    "id": 28,
+    "name": "广东",
+    "abbr": "粤",
+    "code": "10128",
+    "spelling": "GD"
+  },
+  {
+    "id": 29,
+    "name": "云南",
+    "abbr": "云",
+    "code": "10129",
+    "spelling": "YN"
+  },
+  {
+    "id": 30,
+    "name": "广西",
+    "abbr": "桂",
+    "code": "10130",
+    "spelling": "GX"
+  },
+  {
+    "id": 31,
+    "name": "海南",
+    "abbr": "琼",
+    "code": "10131",
+    "spelling": "HAN"
+  },
+  {
+    "id": 32,
+    "name": "香港",
+    "abbr": "港",
+    "code": "10132",
+    "spelling": "XG"
+  },
+  {
+    "id": 33,
+    "name": "澳门",
+    "abbr": "澳",
+    "code": "10133",
+    "spelling": "AM"
+  },
+  {
+    "id": 34,
+    "name": "台湾",
+    "abbr": "台",
+    "code": "10134",
+    "spelling": "TW"
+  }
+]
