@@ -7,6 +7,9 @@ class TestSmartWeather < Minitest::Test
   def setup
     @provinces = SmartWeather::Province.all
     @cities    = SmartWeather::City.all
+
+    SmartWeather.app_id      = 'Your app id'
+    SmartWeather.private_key = 'Your private key'
   end
 
   def test_provinces_data
@@ -21,5 +24,11 @@ class TestSmartWeather < Minitest::Test
     assert_equal true, @cities.first.is_a?(Hash)
     assert_equal 1, @cities.first[:id]
     assert_equal '101010100', @cities.first[:code]
+  end
+
+  def test_get_weather
+    assert_equal true, SmartWeather.get_observe(areaid: '101010100').is_a?(Hash)
+    assert_equal true, SmartWeather.get_forecast(areaid: '101010100').is_a?(Hash)
+    assert_equal true, SmartWeather.get_index(areaid: '101010100').is_a?(Hash)
   end
 end

@@ -1,6 +1,8 @@
 # SmartWeather
 
-TODO: Write a gem description
+[中国气象网SmartWeatherAPI](http://smart.weather.com.cn/wzfw/smart/weatherapi.shtml) Ruby SDK
+
+详细接口说明请见[SmartWeatherAPI_Lite_WebAPI版产品使用说明书](http://smart.weather.com.cn/wzfw/smart/weatherapi.shtml)
 
 ## Installation
 
@@ -18,7 +20,27 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+require 'smart_weather'
+
+SmartWeather.app_id      = 'your app id'
+SmartWeather.private_key = 'your private_key'
+
+# 获取支持的省份
+SmartWeather::Province.all
+
+# 获取支持的城市的 areaid
+SmartWeather::City.all
+
+# 天气实况
+SmartWeather.get_observe(areaid: '101010100')
+
+# 常规预报(3d)
+SmartWeather.get_forecast(areaid: '101010100')
+
+# 天气指数
+SmartWeather.get_index(areaid: '101010100')
+```
 
 ## Contributing
 
