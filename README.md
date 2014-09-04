@@ -1,8 +1,8 @@
 # SmartWeather
 
-[中国气象网SmartWeatherAPI](http://smart.weather.com.cn/wzfw/smart/weatherapi.shtml) Ruby SDK
+中国气象网 SmartWeatherAPI Ruby SDK
 
-详细接口说明请见[SmartWeatherAPI_Lite_WebAPI版产品使用说明书](http://smart.weather.com.cn/wzfw/smart/weatherapi.shtml)
+详细接口说明请见 [SmartWeatherAPI_Lite_WebAPI版产品使用说明书](http://smart.weather.com.cn/wzfw/smart/weatherapi.shtml)
 
 ## Installation
 
