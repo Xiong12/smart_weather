@@ -44,7 +44,7 @@ SmartWeather.get_index(areaid: '101010100')
 
 ## Contributing
 
-1. Fork it ( https://github.com/NaixSpirit/smart_weather/fork )
+1. Fork it ( https://github.com/awesome-api/smart_weather/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
