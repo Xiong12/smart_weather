@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = SmartWeather::VERSION
   spec.authors       = ["Spirit"]
   spec.email         = ["neverlandxy.naix@gmail.com"]
-  spec.summary       = %q{中国气象网SmartWeatherAPI Ruby SDK}
-  spec.description   = %q{中国气象网SmartWeatherAPI Ruby SDK}
+  spec.summary       = %q{中国气象网 SmartWeatherAPI Ruby SDK}
+  spec.description   = %q{中国气象网 SmartWeatherAPI Ruby SDK}
   spec.homepage      = "https://github.com/awesome-api/smart_weather"
   spec.license       = "MIT"
 
@@ -19,6 +19,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "restclient_api_base", "~> 0.1.1"
+  spec.add_dependency "oj", "~> 2.10.2"
   spec.add_development_dependency "bundler", "~> 1.6"
   spec.add_development_dependency "rake"
 end
